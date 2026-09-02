@@ -1,11 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/mdxpress-blog-dev-deploy.git"
+    "url": "git+https://github.com/FreetimeMaker/MDXpress-Blog-CNP-But-Better.git"
   },
-  "license": "MIT",
-  "private": true,
-  "name": "mdxpress-blog-dev-deploy",
+  "license": "GPL-3.0-only",
+  "name": "mdxpress-blog-dev-deploy-better",
   "version": "1.0.0",
   "description": "Lightweight Blog Platform for Automatic Markdown Rendering",
   "main": "core3.js",
@@ -13,15 +12,14 @@
     "dev": "node server.js",
     "start": "node server.js"
   },
-  "keywords": ["blog", "markdown", "static"],
-  "author": "Your Name",
+  "keywords": ["blog", "markdown", "static", "mdx", "mdxpress", "mdxpress-blog", "mdxpress-blog-cnp-but-better", "vercel"],
+  "author": "Freetime Maker",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/yourusername/mdxpress-blog-dev-deploy/issues"
+    "url": "https://github.com/FreetimeMaker/MDXpress-Blog-CNP-But-Better/issues"
   },
-  "homepage": "https://github.com/yourusername/mdxpress-blog-dev-deploy#readme",
+  "homepage": "https://github.com/FreetimeMaker/MDXpress-Blog-CNP-But-Better#readme",
   "dependencies": {
-    "marked": "^4.0.0",
-    "@vercel/node": "^2.15.10"
+    "marked": "^4.0.0"
   }
 }

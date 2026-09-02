@@ -1,68 +1,21 @@
-# MDXpress Blog
+# About Me
 
-**MDXpress blog** is a lightweight, no-fuss blogging platform designed for developers and minimalists. It allows you to publish blog posts simply by uploading Markdown (`.md`) files to a folder. No CMS, no database—just clean and direct blogging.
+## ****Last Updated on 02.09.2026 at 12:33 (12:33 P. M.)****
 
-## 🚀 Features
+# ****About Me****
 
-- Write blog posts in Markdown  
-- Automatically renders posts to HTML  
-- Dark mode toggle  
-- Clean and responsive UI  
-- Easy setup and usage  
+- **I'm Freetime Maker. Only one Person doing everything alone with the help of some contributors of course.**
 
----
+- **I'm from Switzerland.**
 
-## ✍️ How to Use
+# ****How is this going to be used?****
 
-### 1. **Write Your Blog Post**
+- **This will be used for some Changelogs of my Apps and other Things.**
 
-Create a new Markdown file inside `public/blogs/`. For example:
+- **It will be used make it easier for you to keep track of all my Work**
 
-```bash
-touch public/blogs/my-first-post.md
-```
+- **I will add an new Blog every time something is new.**
 
-### 2. **Add Your Content**
+## ****Some Informations****
 
-Use standard Markdown to write your post.
-
-```markdown
-# My First Post
-
-Welcome to my blog powered by **mdxpress**!
-
-- Simple  
-- Fast  
-- Minimal  
-```
-
-### 3. **Push Your Changes**
-
-Once you add your `.md` file, just commit and push to your GitHub repository:
-
-```bash
-git add .
-git commit -m "Add my first blog post"
-git push origin main
-```
-
-That's it! Your blog post will be live instantly.
-
----
-
-## 🌙 Dark Mode
-
-A toggle button on the top right corner of the blog allows switching between light and dark modes. The state persists between views for a smoother reading experience.
-
----
-
-## 💡 Ideal For
-
-- Developers who love Markdown  
-- Tech bloggers who want full control  
-- Minimalist blogging without CMS overhead  
-- Portfolio blogs, developer notes, and changelogs  
-
----
-
-Enjoy blogging with Markdown simplicity ✨
+> **Every Date is at my local time. For example if you're in New York City and I publish something on 09.09.2027 at 03.00 in Switzerland then for you it would be 08.09.2027 at 9 P. M. and 22:00 would be 4 P. M. I will even write the A. M. and P. M. too so it's easier for you to know**
