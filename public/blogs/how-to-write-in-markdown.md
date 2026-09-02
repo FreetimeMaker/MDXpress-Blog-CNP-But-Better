@@ -1,16 +1,16 @@
 # Understanding Markdown: A Quick Guide
 
-Markdown is a lightweight markup language for creating formatted text using a plain-text editor.
+**Markdown is a lightweight markup language for creating formatted text using a plain-text editor.**
 
-## Why use Markdown?
+## ****Why use Markdown?****
 
-- It’s **easy to learn**
-- You can write *anywhere* – from Notepad to VS Code
-- Perfect for writing blogs, READMEs, docs, and more
+- **It’s** ****easy to learn****
+- ****You can write**** ***anywhere*** ****– from Notepad to VS Code****
+- ****Perfect for writing blogs, READMEs, docs, and more*****
 
-## Basic Syntax
+## ****Basic Syntax****
 
-Here are a few examples:
+**Here are a few examples:**
 
 ```markdown
 # Heading 1
