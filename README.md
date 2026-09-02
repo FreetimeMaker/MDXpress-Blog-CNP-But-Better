@@ -46,6 +46,29 @@ mdxpress-blog-cnp/
 
 ---
 
+## 🚀 How to deploy it on Vercel?
+
+1. Fork this Repository or click on 'Use this Template'.
+2. Clone it to your Machine with 
+```bash
+git clone https://github.com/FreetimeMaker/MDXpress-Blog-CPN-But-Better MD-Blog
+cd MD-Blog
+```
+
+3. Configure it how you like.
+4. Commit and push your local changes to github with
+```bash
+git add .
+git commit -m "Configured MD-Blog"
+git push
+```
+
+5. Login to [Vercel](https://vercel.com).
+6. Login via [GitHub](https://github.com).
+7. Add your [GitHub](https://github.com) Repository and deploy it like it is.
+8. Define a Custom Domain or use the [Vercel](https://vercel.com) Subdomain.
+9. Your finished.
+
 ## 📌 How It Works on Vercel
 
 - All backend logic is handled via Serverless Functions in `/api`.
@@ -56,6 +79,6 @@ mdxpress-blog-cnp/
 
 ## 🙋‍♂️ About the Creator
 
-Crafted by [Eshan Singh](mailto:eshan.singh.04.dev@gmail.com), a full-stack developer & cybersecurity enthusiast exploring the balance of performance and simplicity in web apps.
+Crafted by [Freetime Maker](mailto:FreetimeMaker@proton.me), a Android and Web dev & enthusiast exploring the balance of performance and simplicity in web apps.
 
 ---
