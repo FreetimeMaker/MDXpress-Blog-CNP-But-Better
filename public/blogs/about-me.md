@@ -1,8 +1,9 @@
 # About Me
 
-## ****Released on 01.09.2026 18:56 (6:56 P. M.)****
+## ****Released on <t:1788281760:F> (<t:1788281760:R>)****
 
 # Freetime Maker
+
 📧 **[FreetimeMaker@proton.me](mailto:FreetimeMaker@proton.me)**
 📍 **Switzerland**
 
@@ -16,7 +17,7 @@
 
 ## 🧠 ****Skills****
 
-### ****Technical**** 
+### ****Technical****
 
 - ****Backend:**** **Node.js, Express, Supabase**
 
