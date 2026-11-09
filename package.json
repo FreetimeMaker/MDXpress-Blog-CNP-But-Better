@@ -12,7 +12,16 @@
     "dev": "node --use-system-ca server.js",
     "start": "node --use-system-ca server.js"
   },
-  "keywords": ["blog", "markdown", "static", "mdx", "mdxpress", "mdxpress-blog", "mdxpress-blog-cnp-but-better", "vercel"],
+  "keywords": [
+    "blog",
+    "markdown",
+    "static",
+    "mdx",
+    "mdxpress",
+    "mdxpress-blog",
+    "mdxpress-blog-cnp-but-better",
+    "vercel"
+  ],
   "author": "Freetime Maker",
   "type": "module",
   "bugs": {

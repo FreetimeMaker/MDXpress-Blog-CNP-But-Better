@@ -26,17 +26,20 @@ mdxpress-blog-cnp/
 ## 🧪 How to Run Locally
 
 1. **Clone the Repository**
+
    ```bash
    git clone https://github.com/FreetimeMaker/MD-Blog
    cd MD-Blog
    ```
 
 2. **Install Dependencies**
+
    ```bash
    npm install
    ```
 
 3. **Run Locally with Vercel**
+
    ```bash
    vercel dev
    ```
@@ -49,7 +52,8 @@ mdxpress-blog-cnp/
 ## 🚀 How to deploy it on Vercel?
 
 1. Fork this Repository or click on 'Use this Template'.
-2. Clone it to your Machine with 
+2. Clone it to your Machine with
+
 ```bash
 git clone https://github.com/FreetimeMaker/MDXpress-Blog-CPN-But-Better MD-Blog
 cd MD-Blog
@@ -57,6 +61,7 @@ cd MD-Blog
 
 3. Configure it how you like.
 4. Commit and push your local changes to github with
+
 ```bash
 git add .
 git commit -m "Configured MD-Blog"
