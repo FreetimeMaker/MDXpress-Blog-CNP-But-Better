@@ -7,10 +7,11 @@
   "name": "mdxpress-blog-dev-deploy-better",
   "version": "1.0.0",
   "description": "Lightweight Blog Platform for Automatic Markdown Rendering",
-  "main": "server.js",
   "scripts": {
-    "dev": "node --use-system-ca server.js",
-    "start": "node --use-system-ca server.js"
+    "build": "node scripts/build.js",
+    "dev": "npm run build && node server.js",
+    "start": "npm run dev",
+    "test": "node --test"
   },
   "keywords": [
     "blog",
@@ -19,8 +20,7 @@
     "mdx",
     "mdxpress",
     "mdxpress-blog",
-    "mdxpress-blog-cnp-but-better",
-    "vercel"
+    "mdxpress-blog-cnp-but-better"
   ],
   "author": "Freetime Maker",
   "type": "module",
@@ -29,6 +29,10 @@
   },
   "homepage": "https://github.com/FreetimeMaker/MDXpress-Blog-CNP-But-Better#readme",
   "dependencies": {
-    "marked": "^18.1.3"
+    "marked": "^18.1.3",
+    "dompurify": "^3.4.17"
+  },
+  "devDependencies": {
+    "jsdom": "^27.0.1"
   }
 }
